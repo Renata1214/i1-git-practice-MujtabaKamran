@@ -20,6 +20,6 @@ Comment written by Yerdanat Kurmantayev
 
 Comment on the Article:
 
-According to my viewpoint, the article portrays a realisitic view regarding the interaction between AI and programmers. Just as the article mentions, while LLMs can be a great tool to make the coiding more efficient, due to the growing complexity that different programs can have, human intervention will remain essential. While the role of programmers might not be exactly the same, their creativity and capacity to understand code will continue to be a required tool for the tech industry to keep on growing. 
+According to my viewpoint, the article portrays a realisitic view regarding the interaction between AI and programmers. Just as the article mentions, while LLMs can be a great tool to make the coding more efficient, due to the growing complexity that different programs can have, human intervention will remain essential. While the role of programmers might not be exactly the same, their creativity and capacity to understand code will continue to be a required tool for the tech industry to keep on growing. 
 
 Comment by Renata Espinosa.
